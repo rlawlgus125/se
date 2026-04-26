@@ -4,14 +4,14 @@
 
 ---
 
-##  프로젝트 결과물 위치
+## 프로젝트 결과물 위치
 
 | 프로젝트 번호 | 위치 | 설명 |
 |----------|------|------|
-| 프로젝트 1 | `/doc/project_definition.md` | 프로젝트 정의서 |
-| 프로젝트 2 | `/doc/quality_attributes.md` | 품질 요소 분석 |
-| 프로젝트 3 | `/doc/project_management_plan.md` | 프로젝트 관리 계획서 |
-| 프로젝트 4 | `/doc/requirements.md` | 요구사항 정의서 |
+| 프로젝트 1 | [project_definition.md](./doc/project_definition.md) | 프로젝트 정의서 |
+| 프로젝트 2 | [quality_attributes.md](./doc/quality_attributes.md) | 품질 요소 분석 |
+| 프로젝트 3 | [project_management_plan.md](./doc/project_management_plan.md) | 프로젝트 관리 계획서 |
+| 프로젝트 4 | [requirements.md](./doc/requirements.md) | 요구사항 정의서 |
 
 ---
 

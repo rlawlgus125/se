@@ -6,11 +6,12 @@
 
 ##  프로젝트 결과물 위치
 
-| 프로젝트 | 위치 | 설명 |
+| 프로젝트 번호 | 위치 | 설명 |
 |----------|------|------|
-| 프로젝트 1 | `/doc/project1.md` | 프로젝트 정의서 작성하기 |
-| 프로젝트 2 | `/doc/project2.md` | 품질 요소 분석 |
-| 프로젝트 3 | `/doc/project3.md` | 프로젝트 관리 계획서 |
+| 프로젝트 1 | `/doc/project_definition.md` | 프로젝트 정의서 |
+| 프로젝트 2 | `/doc/quality_attributes.md` | 품질 요소 분석 |
+| 프로젝트 3 | `/doc/project_management_plan.md` | 프로젝트 관리 계획서 |
+| 프로젝트 4 | `/doc/requirements.md` | 요구사항 정의서 |
 
 ---
 

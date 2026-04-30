@@ -242,7 +242,7 @@ GitHub를 이용해 소스코드, 문서, 산출물을 관리합니다.
 |---|---|
 | project1_definition.md | 202603 |
 | project2_quality_attributes.md | 202603 |
-| project3_management_plan,md | 20260426 |
+| project3_management_plan.md | 20260426 |
 | project4_requirements.md | 작성 예정 |
 
 ### 기타 제약사항

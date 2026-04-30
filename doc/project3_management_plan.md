@@ -103,27 +103,27 @@ Mini Drive 시스템 개발
 
 ## 5. 개발 일정 📅
 
-| 활동 | 기간 |
-|---|---|
-| 프로젝트 요약 | 1주차 |
-| 프로젝트 계획 | 1주차 |
-| 요구사항 정의 및 분석 | 2주차 |
-| Product Backlog | 2주차 |
-| Sprint Planning Meeting | Sprint 시작 시마다 진행 |
-| Sprint 1 | 회원가입 및 로그인 기능 구현 |
-| Sprint 2 | 파일 업로드 및 다운로드 기능 구현 |
-| Sprint 3 | 폴더 생성, 삭제, 이름 변경 기능 구현 |
-| Sprint 4 | 계층 구조 기반 폴더 관리 구현 |
-| Sprint 5 | 파일 공유 및 권한 설정 기능 구현 |
-| Sprint 6 | 외부 공유 링크 및 만료 설정 기능 구현 |
-| Sprint 7 | 파일 검색 및 필터링 기능 구현 |
-| Sprint 8 | 파일 버전 관리 및 복원 기능 구현 |
-| Sprint 9 | 사용자 권한 관리 기능 구현 |
-| Sprint 10 | 통합 테스트 및 최종 수정 |
-| Daily Scrum Meeting | 프로젝트 기간 동안 매일 진행 |
-| Sprint Retrospective | Sprint 종료 시점마다 진행 |
-| Sprint Review | Sprint 종료 시점마다 진행 |
-| 프로젝트 종료 | 최종 발표 및 산출물 제출 |
+| 활동 | 기간 | 주요 내용 |
+|---|---|---|
+| 프로젝트 요약 | 1주차 | Mini Drive 프로젝트 개요 및 목적 정리 |
+| 프로젝트 계획 | 1주차 | 프로젝트 관리 계획서 작성 |
+| 요구사항 정의 및 분석 | 2주차 | 주요 기능 및 품질 요구사항 분석 |
+| Product Backlog | 2주차 | 구현 기능을 우선순위에 따라 정리 |
+| Sprint Planning Meeting | 각 Sprint 시작 시 | Sprint 목표 설정 및 Backlog 선정 |
+| Sprint 1 | 3주차 | 회원가입 및 로그인 기능 구현 |
+| Sprint 2 | 4주차 | 파일 업로드 및 다운로드 기능 구현 |
+| Sprint 3 | 5주차 | 폴더 생성, 삭제, 이름 변경 기능 구현 |
+| Sprint 4 | 6주차 | 계층 구조 기반 폴더 관리 구현 |
+| Sprint 5 | 7주차 | 파일 공유 및 권한 설정 기능 구현 |
+| Sprint 6 | 8주차 | 외부 공유 링크 및 만료 설정 기능 구현 |
+| Sprint 7 | 9주차 | 파일 검색 및 필터링 기능 구현 |
+| Sprint 8 | 10주차 | 파일 버전 관리 및 복원 기능 구현 |
+| Sprint 9 | 11주차 | 사용자 권한 관리 기능 구현 |
+| Sprint 10 | 12주차 | 통합 테스트 및 최종 수정 |
+| Daily Scrum Meeting | 프로젝트 기간 동안 매일 | 진행 상황 및 이슈 공유 |
+| Sprint Retrospective | 각 Sprint 종료 시 | 개선점, 잘한 점, 새로 시작할 점 정리 |
+| Sprint Review | 각 Sprint 종료 시 | Sprint 결과물 검토 및 문서화 |
+| 프로젝트 종료 | 13주차 | 최종 발표 및 산출물 제출 |
 
 ---
 

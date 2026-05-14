@@ -12,6 +12,7 @@
 | 프로젝트 2 | [project2_quality_attributes.md](./doc/project2_quality_attributes.md) | 품질 요소 분석 |
 | 프로젝트 3 | [project3_management_plan.md](./doc/project3_management_plan.md) | 프로젝트 관리 계획서 |
 | 프로젝트 4 | [project4_requirements.md](./doc/project4_requirements.md) | 요구사항 정의서 |
+| 프로젝트 5 | [project5_req_analysis.md](./doc/project5_req_analysis.md) | 요구사항 분석서 |
 
 ---
 

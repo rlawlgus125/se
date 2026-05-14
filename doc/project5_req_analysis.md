@@ -1,4 +1,4 @@
-# Mini Drive - 요구사항 분석서
+# 📌 Mini Drive - 요구사항 분석서
 
 > 조직 내 파일 관리 및 협업을 위한 웹 기반 클라우드 시스템
 
@@ -1170,6 +1170,4 @@ stateDiagram-v2
 ## 7. 참고문헌 및 부록
 
 - `project1_definition.md` - Mini Drive 시스템 정의서
-- `project2_quality_attributes.md` - Mini Drive 품질 요소 정의서
 - `project4_requirements.md` - Mini Drive 요구사항 정의서
-- 샘플 요구사항 분석서 (교수 제공)

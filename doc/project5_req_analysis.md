@@ -77,60 +77,8 @@ Mini Drive는 조직 내 파일을 중앙에서 관리하고 사용자 간 공�
 | 시스템 | 파일 버전 저장, 삭제 파일 임시 보관, 로그 기록 등 자동으로 동작하는 내부 주체 |
 
 #### 2.1.2 유스케이스 다이어그램
-
-```mermaid
-flowchart LR
-    %% 액터
-    User(["🧍 일반 사용자"])
-    Admin(["🧍 관리자"])
-    ExtUser(["🧍 외부 사용자"])
-    Sys(["⚙️ 시스템"])
-
-    subgraph MiniDrive["<< Mini Drive System >>"]
-        direction TB
-        UC01(["회원가입을 한다"])
-        UC02(["로그인을 한다"])
-        UC03(["파일을 업로드한다"])
-        UC04(["파일을 다운로드한다"])
-        UC05(["파일을 삭제한다"])
-        UC06(["폴더를 관리한다"])
-        UC07(["파일을 공유한다"])
-        UC08(["공유 링크를 생성한다"])
-        UC09(["파일을 검색한다"])
-        UC10(["버전을 관리한다"])
-        UC11(["삭제 파일을 복구한다"])
-        UC12(["사용자 권한을 관리한다"])
-        UC13(["로그를 조회한다"])
-        UC14(["버전을 자동 저장한다"])
-        UC15(["로그를 자동 기록한다"])
-        UC16(["외부 링크로 파일에 접근한다"])
-    end
-
-    %% 액터 - 유스케이스 연관
-    User --- UC01
-    User --- UC02
-    User --- UC03
-    User --- UC04
-    User --- UC05
-    User --- UC06
-    User --- UC07
-    User --- UC08
-    User --- UC09
-    User --- UC10
-    User --- UC11
-    Admin --- UC02
-    Admin --- UC12
-    Admin --- UC13
-    Sys --- UC14
-    Sys --- UC15
-    ExtUser --- UC16
-
-    %% 포함 / 확장 관계
-    UC03 -. "<<include>>" .-> UC14
-    UC10 -. "<<include>>" .-> UC14
-    UC03 -. "<<include>>" .-> UC15
-    UC07 -. "<<extend>>" .-> UC08
-```
+ 
+![유스케이스 다이어그램](usecase_diagram.png)
 
 ---
 
